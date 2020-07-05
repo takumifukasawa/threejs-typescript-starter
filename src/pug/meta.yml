@@ -1,8 +1,8 @@
 # このサイト全体のタイトル
-site_name: webpack-typescript-starter-for-github-pages
+site_name: threejs-typescript-starter
 
 # meta description（og:description・twitter:descriptionでも使用）
-description: webpack-typescript-starter-for-github-pages.
+description: threejs-typescript-starter
 
 # meta keywords
 keywords: []
