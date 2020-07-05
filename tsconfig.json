@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "rootDirs": ["./src/ts"],
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["src/ts/*"]
+    },
+  },
+  "exclude": ["node_modules"],
+  "include": ["**/*.ts"],
+  "typeRoots": ["src/types"]
+}
