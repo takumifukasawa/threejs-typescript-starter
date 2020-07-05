@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es6",
     "module": "es2015",
     "moduleResolution": "node",
     "rootDirs": ["./src/ts"],
@@ -10,6 +10,6 @@
     },
   },
   "exclude": ["node_modules"],
-  "include": ["**/*.ts"],
+  "include": ["./src/**/*.ts"],
   "typeRoots": ["src/types"]
 }
